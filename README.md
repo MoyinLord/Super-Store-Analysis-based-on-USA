@@ -9,5 +9,6 @@ It will also be great for your own learning to build this dashboard new, from sc
 start a new workbook on Tableau and connect to the data source!
 Requirements:
 1. Connect to the official Tableau Super Store datasets.
-2. Review the mock up dashboard on the next page. You will need to create the
-following:
+2. Review the mock up dashboard on the next page. You will need to read from
+3. 
+
